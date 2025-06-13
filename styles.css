@@ -1,1 +1,69 @@
 /*  your css code here. If applicable */
+#main-login{
+display:flex;	
+justify-content:space-around;
+background-color:#F2F4F7;
+height:500px;
+
+align-items: center;
+padding:5px;
+
+	
+}
+body{
+	
+
+
+	
+}
+#roll-2{
+	background-color:white;
+	width: 350px;
+	height:270px;
+	text-align:center;
+	
+}
+#roll-1>h1{
+	font-size:60px;
+  font-family: Arial, Helvetica, sans-serif;
+	color:blue;
+}
+#roll-1>h2{
+	font-size:22px;
+	    font-family: Freight Sans Bold, Helvetica, Arial, sans-serif;
+}
+#user_name{
+	margin-top:10px;
+	line-height:30px;
+	width:250px;
+	border-radius:5px;
+	
+}
+#user_password{
+	line-height:30px;
+	width:250px;
+	border-radius:5px;
+}
+#btn{
+	width:255px;
+	background-color: blue;
+	color:white;
+	height:30px;
+	 border-radius: 5px;
+	font-size:15px;
+}
+#link{
+	text-decoration:none;
+	color:#1877F2;
+}
+#btn-2{
+	height:35px;
+	width:150px;
+	background-color:#36A420;
+	color:white;
+	border-radius:5px;
+	
+}
+hr{
+	width:255px;
+}
