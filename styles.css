@@ -23,15 +23,13 @@ body{
 	text-align:center;
 	
 }
-#roll-1>h1{
+.left>h1{
 	font-size:50px;
   font-family: Arial, Helvetica, sans-serif;
 	color:blue;
 }
-.left{
-	width:200px;
-}
-#roll-1>h2{
+
+.left>h2{
 	font-size:18px;
 	font-family: Freight Sans Bold, Helvetica, Arial, sans-serif;
 }
