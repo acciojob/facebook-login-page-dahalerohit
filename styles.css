@@ -28,7 +28,7 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 	color:blue;
 }
-#roll-1>img{
+.leftimg{
 	width:200px;
 }
 #roll-1>h2{
