@@ -28,12 +28,12 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 	color:blue;
 }
-#roll-2>img{
-	width:100px;
+#roll-1>img{
+	width:200px;
 }
 #roll-1>h2{
-	font-size:22px;
-	    font-family: Freight Sans Bold, Helvetica, Arial, sans-serif;
+	font-size:18px;
+	font-family: Freight Sans Bold, Helvetica, Arial, sans-serif;
 }
 #email{
 	margin-top:10px;
