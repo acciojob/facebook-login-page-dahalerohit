@@ -23,6 +23,14 @@ body{
 	text-align:center;
 	
 }
+#roll-1>h1{
+	font-size:50px;
+  font-family: Arial, Helvetica, sans-serif;
+	color:blue;
+}
+#roll-1>img{
+	width:80px;
+}
 #roll-1>h2{
 	font-size:22px;
 	    font-family: Freight Sans Bold, Helvetica, Arial, sans-serif;
@@ -64,6 +72,3 @@ hr{
 }
 
 
-#roll-1>img{
-	width:300px;
-}
