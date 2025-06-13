@@ -19,7 +19,7 @@ body{
 #roll-2{
 	background-color:white;
 	width: 350px;
-	height:270px;
+	height:350px;
 	text-align:center;
 	
 }
@@ -32,14 +32,14 @@ body{
 	font-size:22px;
 	    font-family: Freight Sans Bold, Helvetica, Arial, sans-serif;
 }
-#user_name{
+#email{
 	margin-top:10px;
 	line-height:30px;
 	width:250px;
 	border-radius:5px;
 	
 }
-#user_password{
+#password{
 	line-height:30px;
 	width:250px;
 	border-radius:5px;
@@ -66,4 +66,8 @@ body{
 }
 hr{
 	width:255px;
+}
+#facebook-logo{
+	height:50px;
+	margin-top:10px;
 }
