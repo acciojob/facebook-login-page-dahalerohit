@@ -23,11 +23,6 @@ body{
 	text-align:center;
 	
 }
-#roll-1>h1{
-	font-size:60px;
-  font-family: Arial, Helvetica, sans-serif;
-	color:blue;
-}
 #roll-1>h2{
 	font-size:22px;
 	    font-family: Freight Sans Bold, Helvetica, Arial, sans-serif;
@@ -67,7 +62,8 @@ body{
 hr{
 	width:255px;
 }
-#facebook-logo{
-	height:50px;
-	margin-top:10px;
+
+
+#roll-1>img{
+	width:300px;
 }
